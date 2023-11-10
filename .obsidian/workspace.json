@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -194,8 +194,9 @@
   },
   "active": "141d5978f7c32201",
   "lastOpenFiles": [
-    "Studio XP/Game Editor V2.md",
+    "Studio XP/Potatoes.md",
     "Studio XP/_Todo.md",
+    "Studio XP/Game Editor V2.md",
     "Studio XP/B2B/École Saint-Maurice.md",
     "Studio XP/Subscriber Space.md",
     "orange prog button loads selectedExo, not first.md",
