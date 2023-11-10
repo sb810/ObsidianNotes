@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b86384063e2ad47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Nov 9th, 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templates/Daily notes.md",
+            "file": "Daily Notes/Nov 9th, 2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Templates/Daily notes.md",
+            "file": "Daily Notes/Nov 9th, 2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +149,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Templates/Daily notes.md"
+            "file": "Daily Notes/Nov 9th, 2023.md"
           }
         }
       },
@@ -173,15 +185,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "23c6c14484267f85",
+  "active": "0b86384063e2ad47",
   "lastOpenFiles": [
+    "Templates/Daily notes.md",
+    "Studio XP/Subscriber Space.md",
     "Templates",
     "README.md",
-    "Templates/Daily notes.md",
     "Daily Notes/Nov 9th, 2023.md",
     "conflict-files-obsidian-git.md",
     "Studio XP/Game Editor V2.md",
-    "Studio XP/Subscriber Space.md",
     "Studio XP/_Todo.md"
   ]
 }
