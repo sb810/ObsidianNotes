@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Nov 9th, 2023.md",
+                "file": "Studio XP/Subscriber Space.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/Nov 9th, 2023.md",
+            "file": "Studio XP/Subscriber Space.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/Nov 9th, 2023.md",
+            "file": "Studio XP/Subscriber Space.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/Nov 9th, 2023.md"
+            "file": "Studio XP/Subscriber Space.md"
           }
         }
       },
@@ -162,5 +162,9 @@
     }
   },
   "active": "2c1fd6a82cfa872d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Studio XP/_Todo.md",
+    "Studio XP/Game Editor V2.md",
+    "Daily Notes/Nov 9th, 2023.md"
+  ]
 }
