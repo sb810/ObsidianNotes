@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studio XP/_Todo.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studio XP/_Todo.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studio XP/_Todo.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studio XP/_Todo.md"
+                "file": "README.md"
               }
             }
           },
@@ -194,8 +194,8 @@
   },
   "active": "141d5978f7c32201",
   "lastOpenFiles": [
-    "Studio XP/Game Editor V2.md",
     "Studio XP/_Todo.md",
+    "Studio XP/Game Editor V2.md",
     "Studio XP/B2B/École Saint-Maurice.md",
     "Studio XP/Subscriber Space.md",
     "orange prog button loads selectedExo, not first.md",
