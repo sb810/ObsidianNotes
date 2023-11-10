@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studio XP/_Todo.md",
+                "file": "Daily Notes/Nov 9th, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studio XP/_Todo.md",
+                "file": "Daily Notes/Nov 9th, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studio XP/_Todo.md",
+                "file": "Daily Notes/Nov 9th, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studio XP/_Todo.md"
+                "file": "Daily Notes/Nov 9th, 2023.md"
               }
             }
           },
@@ -194,14 +194,14 @@
   },
   "active": "141d5978f7c32201",
   "lastOpenFiles": [
-    "Studio XP/Potatoes.md",
     "Studio XP/_Todo.md",
     "Studio XP/Game Editor V2.md",
-    "Studio XP/B2B/École Saint-Maurice.md",
     "Studio XP/Subscriber Space.md",
+    "Daily Notes/Nov 9th, 2023.md",
+    "Studio XP/Potatoes.md",
+    "Studio XP/B2B/École Saint-Maurice.md",
     "orange prog button loads selectedExo, not first.md",
     "Studio XP/Game Editor.md",
-    "Daily Notes/Nov 9th, 2023.md",
     "Studio XP/B2B/B2B.md",
     "Studio XP/B2B.md",
     "Studio XP/B2B",
