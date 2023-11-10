@@ -1,0 +1,24 @@
+{
+  "new-note-folder": "/",
+  "show-checkboxes": false,
+  "show-relative-date": false,
+  "date-colors": [
+    {
+      "distance": 1,
+      "unit": "days",
+      "direction": "before",
+      "isToday": true,
+      "backgroundColor": "rgba(255, 200, 0, 0)",
+      "color": "rgba(255, 208, 0, 1)"
+    },
+    {
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "color": "rgba(255, 0, 0, 1)",
+      "isBefore": true
+    }
+  ],
+  "hide-tags-in-title": true,
+  "hide-date-in-title": true
+}
