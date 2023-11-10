@@ -23,10 +23,7 @@
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false
   },
-  "Daily Notes": {
-    "iconName": "FasCalendarDay",
-    "inheritanceIcon": "FasCalendarDay"
-  },
+  "Daily Notes": "FasCalendarDay",
   "Daily Notes/Nov 9th, 2023.md": {
     "iconName": null,
     "inheritanceIcon": "FasCalendarDay"
