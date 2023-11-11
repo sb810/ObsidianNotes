@@ -1,5 +1,5 @@
 # Daily Notes
 ```dataview
 Table
-From #dailynote
+From #dailynote where file.name != "Daily notes template"
 ```

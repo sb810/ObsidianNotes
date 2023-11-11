@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f25efdfde16381f7",
+        "id": "816a44065258a825",
         "type": "tabs",
         "children": [
           {
-            "id": "141d5978f7c32201",
+            "id": "b3ca3dc770c9318b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/Nov 10th, 2023.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Nov 10th, 2023.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Nov 10th, 2023.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Nov 10th, 2023.md"
+                "file": "README.md"
               }
             }
           },
@@ -192,13 +188,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "141d5978f7c32201",
+  "active": "23e6d586d194a03b",
   "lastOpenFiles": [
+    "Templates/Daily notes template.md",
     "README.md",
-    "Templates/Daily notes.md",
+    "Daily Notes/Nov 10th, 2023.md",
+    "Daily Notes/Christmas lists.md",
     "Templates",
     "Daily Notes/Obsidian reference & ideas.md",
-    "Daily Notes/Nov 10th, 2023.md",
     "Studio XP/_Todo.md",
     "Studio XP/Game Editor V2.md",
     "Studio XP/B2B/École Saint-Maurice.md",
