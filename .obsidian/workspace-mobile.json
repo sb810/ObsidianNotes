@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Daily Notes/Nov 10th, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Daily Notes/Nov 10th, 2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Daily Notes/Nov 10th, 2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -148,7 +148,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Daily Notes/Nov 10th, 2023.md"
           }
         }
       },
@@ -186,13 +186,13 @@
   },
   "active": "2c1fd6a82cfa872d",
   "lastOpenFiles": [
+    "README.md",
     "Daily Notes/Nov 10th, 2023.md",
     "Daily Notes/Obsidian reference & ideas.md",
     "Daily Notes/Nov 9th, 2023.md",
     "Templates/Daily notes.md",
     "Studio XP/Subscriber Space.md",
     "Templates",
-    "README.md",
     "conflict-files-obsidian-git.md",
     "Studio XP/Game Editor V2.md",
     "Studio XP/_Todo.md"
