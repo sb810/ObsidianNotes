@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studio XP/_Todo.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studio XP/_Todo.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studio XP/_Todo.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studio XP/_Todo.md"
+                "file": "README.md"
               }
             }
           },
@@ -195,15 +195,16 @@
   "active": "b3ca3dc770c9318b",
   "lastOpenFiles": [
     "Templates/Daily notes template.md",
+    "Daily Notes/Obsidian reference & ideas.md",
     "Daily Notes/Nov 9th, 2023.md",
     "Daily Notes/Nov 10th, 2023.md",
+    "README.md",
+    "Daily Notes/Untitled.md",
+    "Daily Notes/Christmas lists.md",
+    "Studio XP/_Todo.md",
     "Studio XP/Game Editor V2.md",
     "Studio XP/Subscriber Space.md",
-    "README.md",
-    "Daily Notes/Christmas lists.md",
     "Templates",
-    "Daily Notes/Obsidian reference & ideas.md",
-    "Studio XP/_Todo.md",
     "Studio XP/B2B/École Saint-Maurice.md",
     "orange prog button loads selectedExo, not first.md",
     "Studio XP/Game Editor.md",
