@@ -1,4 +1,5 @@
 ---
 tags:
   - dailynote
+date: {{date}}
 ---
