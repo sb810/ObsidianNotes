@@ -5,6 +5,7 @@
   "attachmentFolderPath": "./",
   "newFileLocation": "current",
   "mobileToolbarCommands": [
+    "command-palette:open",
     "editor:insert-wikilink",
     "editor:insert-embed",
     "editor:insert-tag",
@@ -26,7 +27,7 @@
     "editor:redo",
     "editor:configure-toolbar",
     "editor:insert-codeblock",
-    "editor:insert-callout",
-    "obsidian-git:push"
-  ]
+    "editor:insert-callout"
+  ],
+  "mobilePullAction": "obsidian-git:push"
 }
