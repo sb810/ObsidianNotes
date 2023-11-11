@@ -26,6 +26,7 @@
     "editor:redo",
     "editor:configure-toolbar",
     "editor:insert-codeblock",
-    "editor:insert-callout"
+    "editor:insert-callout",
+    "obsidian-git:push"
   ]
 }
