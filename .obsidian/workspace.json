@@ -11,8 +11,12 @@
             "id": "b3ca3dc770c9318b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Studio XP/Subscriber Space.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Studio XP/Subscriber Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Studio XP/Subscriber Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Studio XP/Subscriber Space.md"
               }
             }
           },
@@ -188,7 +192,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "23e6d586d194a03b",
+  "active": "b3ca3dc770c9318b",
   "lastOpenFiles": [
     "Templates/Daily notes template.md",
     "README.md",
