@@ -170,13 +170,29 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "b57b0702332a3d88",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-schedule",
+              "state": {}
+            }
+          },
+          {
+            "id": "0e12b86a8663fd47",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-day",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 507.5
+    "width": 571.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,12 +210,12 @@
   },
   "active": "b3ca3dc770c9318b",
   "lastOpenFiles": [
-    "README.md",
+    "Daily Notes/Nov 9th, 2023.md",
     "Daily Notes/Nov 11th, 2023.md",
+    "Daily Notes/Nov 10th, 2023.md",
+    "README.md",
     "Templates/Daily notes template.md",
     "Daily Notes/Obsidian reference & ideas.md",
-    "Daily Notes/Nov 9th, 2023.md",
-    "Daily Notes/Nov 10th, 2023.md",
     "Daily Notes/Untitled.md",
     "Daily Notes/Christmas lists.md",
     "Studio XP/_Todo.md",
