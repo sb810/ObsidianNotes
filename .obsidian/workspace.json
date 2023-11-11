@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Daily Notes/Nov 10th, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Daily Notes/Nov 10th, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Daily Notes/Nov 10th, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Daily Notes/Nov 10th, 2023.md"
               }
             }
           },
@@ -194,6 +194,7 @@
   },
   "active": "141d5978f7c32201",
   "lastOpenFiles": [
+    "README.md",
     "Templates/Daily notes.md",
     "Templates",
     "Daily Notes/Obsidian reference & ideas.md",
