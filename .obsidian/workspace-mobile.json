@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +119,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/Nov 10th, 2023.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/Nov 10th, 2023.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -149,7 +148,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/Nov 10th, 2023.md"
+            "file": "README.md"
           }
         }
       },
@@ -185,10 +184,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0b86384063e2ad47",
+  "active": "2c1fd6a82cfa872d",
   "lastOpenFiles": [
-    "Daily Notes/Nov 9th, 2023.md",
     "Daily Notes/Nov 10th, 2023.md",
+    "Daily Notes/Obsidian reference & ideas.md",
+    "Daily Notes/Nov 9th, 2023.md",
     "Templates/Daily notes.md",
     "Studio XP/Subscriber Space.md",
     "Templates",
