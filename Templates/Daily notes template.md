@@ -1,1 +1,4 @@
-#dailynote 
+---
+tags:
+  - dailynote
+---
