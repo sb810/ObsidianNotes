@@ -4,23 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bcfb3c7e248d5a1e",
+        "id": "f25efdfde16381f7",
         "type": "tabs",
         "children": [
           {
-            "id": "3eba7041407c4698",
+            "id": "141d5978f7c32201",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Daily Notes/Nov 12th, 2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Daily Notes/Nov 12th, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Daily Notes/Nov 12th, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Daily Notes/Nov 12th, 2023.md"
               }
             }
           },
@@ -172,7 +171,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -192,21 +192,20 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "3eba7041407c4698",
+  "active": "141d5978f7c32201",
   "lastOpenFiles": [
+    "Daily Notes/Nov 12th, 2023.md",
+    "README.md",
+    "Studio XP/_Todo.md",
+    "Daily Notes/Template.md",
     "Daily Notes/Nov 8th, 2023.md",
     "Daily Notes/Nov 10th, 2023.md",
-    "README.md",
-    "Daily Notes/Template.md",
-    "Studio XP/Subscriber Space.md",
-    "Daily Notes/Nov 9th, 2023.md",
     "Studio XP/Game Editor V2.md",
-    "Studio XP/_Todo.md",
-    "Personal improvement",
-    "Studio XP/Potatoes.md",
     "Studio XP/B2B/École Saint-Maurice.md",
+    "Studio XP/Subscriber Space.md",
     "orange prog button loads selectedExo, not first.md",
     "Studio XP/Game Editor.md",
+    "Daily Notes/Nov 9th, 2023.md",
     "Studio XP/B2B/B2B.md",
     "Studio XP/B2B.md",
     "Studio XP/B2B",
