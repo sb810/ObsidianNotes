@@ -1,20 +1,16 @@
+## Backlog
+- [ ] Completable conditions
+- [ ] Orange prog button loads selected exercise, not first
+- [ ] When redoing exercise, no more win screen
+- [ ] Implement art exercises
 ## Todo
-
-- [ ] #prog #ui implement completable conditions
-- [ ] #prog orange prog button loads selectedExo, not first
-- [ ] When redoing exo, no more win screen
-- [ ] « Bonjour NOM »
-
-
+- [ ] Main Menu : « Bonjour NOM »
 ## In progress
-- [/] oi
-
-## Done
-
-**Complete**
-- [x] #prog switch boss sprite in Editor after completed
+- [ ] 
+## **Done**
+- [x] Switch boss sprite in Editor after completed
 - [x] Sauvegarde du prof écrasée
 - [x] Interface prof : interaction Refresh + save
 - [x] Changer le nom du prof
-- [x] #editor #ui Recommencer / Sauvegarder en français (+ taille police 8px)
-- [x] #prog implement ifs & loops @{Nov 9th, 2023}
+- [x] Recommencer / Sauvegarder en français (+ taille police 8px)
+- [x] Implement ifs & loops @{Nov 9th, 2023}
