@@ -6,5 +6,5 @@ sort date
 ```
 
 ```dataview
-
+List price
 ```
