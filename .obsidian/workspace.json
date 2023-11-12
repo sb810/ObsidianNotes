@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studio XP/Game Editor V2.md",
+                "file": "Studio XP/Subscriber Space.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studio XP/Game Editor V2.md",
+                "file": "Studio XP/Subscriber Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studio XP/Game Editor V2.md",
+                "file": "Studio XP/Subscriber Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studio XP/Game Editor V2.md"
+                "file": "Studio XP/Subscriber Space.md"
               }
             }
           },
@@ -250,8 +250,8 @@
   },
   "active": "f3db52ed7a814fdc",
   "lastOpenFiles": [
-    "Unsorted/Untitled.md",
     "Studio XP/Game Editor V2.md",
+    "Unsorted/Untitled.md",
     "Studio XP/Subscriber Space.md",
     "Studio XP/_Todo.md",
     "Unsorted/École Saint-Maurice.md",
