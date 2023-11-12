@@ -13,11 +13,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Nov 9th, 2023.md",
+                "file": "Daily Notes/Nov 12, 2023.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "0840853f68253cf3"
+          }
+        ],
+        "stacked": true
+      },
+      {
+        "id": "7a8f6a9797ad16a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69d92e65396e0ebb",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Daily Notes/Nov 12, 2023.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "0840853f68253cf3"
           }
         ]
       }
@@ -95,7 +139,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/Nov 9th, 2023.md",
+            "file": "Daily Notes/Nov 12, 2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +156,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/Nov 9th, 2023.md",
+            "file": "Daily Notes/Nov 12, 2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +168,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/Nov 9th, 2023.md"
+            "file": "Daily Notes/Nov 12, 2023.md"
           }
         }
       },
@@ -143,8 +187,17 @@
           "type": "reminder-list",
           "state": {}
         }
+      },
+      {
+        "id": "937da0e91fec6012",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
       }
-    ]
+    ],
+    "currentTab": 5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,9 +215,37 @@
   },
   "active": "2c1fd6a82cfa872d",
   "lastOpenFiles": [
-    "Studio XP/Game Editor V2.md",
-    "Studio XP/Subscriber Space.md",
-    "Studio XP/_Todo.md",
-    "Daily Notes/Nov 9th, 2023.md"
+    "Daily Notes/Nov 12, 2023.md",
+    "Daily Notes/Nov 9th, 2023.md",
+    "README.md",
+    "Unsorted/Recipes.md",
+    "Daily Notes/Nov 11, 2023.md",
+    "Templates/Untitled.md",
+    "Unsorted",
+    "Assets",
+    "Unsorted/lasagna.md",
+    "/lasagna.md",
+    "/Templates/Daily notes template.md",
+    "/Recipes.md",
+    "/Daily Notes/Nov 11th, 2023.md",
+    "Daily Notes/Nov 6th, 2023.md",
+    "Daily Notes/Nov 7, 2023.md",
+    "Daily Notes/Nov 7, 2024.md",
+    "Daily Notes/Nov 6, 2023.md",
+    "Templates/Daily notes template.md",
+    "Daily Notes/Nov 8th, 2023.md",
+    "Templates/Nov 10, 2023.md",
+    "CustomJS/Scripts.js10181738817592",
+    "Daily Notes/Nov 11th, 2023.md",
+    "CustomJS/Scripts.md",
+    "Untitled 1",
+    "CustomJS",
+    "Templates/2023-11-11.md",
+    "Daily Notes/Nov 10th, 2023.md",
+    "/README.md",
+    "/Daily Notes/Obsidian reference & ideas.md",
+    "/Daily Notes/Nov 9th, 2023.md",
+    "/Daily Notes/Nov 10th, 2023.md",
+    "Templates"
   ]
 }

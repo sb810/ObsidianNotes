@@ -2,6 +2,30 @@
   "showLineNumber": false,
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./",
-  "newFileLocation": "current"
+  "attachmentFolderPath": "Assets",
+  "newFileLocation": "folder",
+  "mobileToolbarCommands": [
+    "command-palette:open",
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:attach-file",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:configure-toolbar",
+    "editor:insert-codeblock",
+    "editor:insert-callout"
+  ],
+  "mobilePullAction": "obsidian-git:push",
+  "promptDelete": false,
+  "newFileFolderPath": "Unsorted"
 }

@@ -1,12 +1,7 @@
 # Daily Notes
 ```dataview
-list
-from #dailynote
-sort file.date
-```
-# Bookmarks
-```dataview
-list 
-where file.starred = true
+Table
+From #dailynote where file.name != "Daily notes template"
+sort date
 ```
 

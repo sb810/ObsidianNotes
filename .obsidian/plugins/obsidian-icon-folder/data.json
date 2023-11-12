@@ -19,14 +19,12 @@
       "left": 0
     },
     "iconInTabsEnabled": false,
-    "iconInTitleEnabled": false,
+    "iconInTitleEnabled": true,
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false
   },
-  "Daily Notes": "FasCalendarDay",
   "Daily Notes/Nov 9th, 2023.md": {
     "iconName": null,
     "inheritanceIcon": "FasCalendarDay"
-  },
-  "Studio XP/Game Editor V2.md": "FasListCheck"
+  }
 }
