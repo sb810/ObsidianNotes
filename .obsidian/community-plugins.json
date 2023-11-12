@@ -11,5 +11,6 @@
   "obsidian-reminder-plugin",
   "obsidian-git",
   "google-calendar",
-  "buttons"
+  "buttons",
+  "customjs"
 ]
