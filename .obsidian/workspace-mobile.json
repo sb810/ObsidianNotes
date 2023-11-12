@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Nov 6th, 2023.md",
+                "file": "lasagna.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/Nov 6th, 2023.md",
+            "file": "lasagna.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/Nov 6th, 2023.md",
+            "file": "lasagna.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/Nov 6th, 2023.md"
+            "file": "lasagna.md"
           }
         }
       },
@@ -172,12 +172,18 @@
   },
   "active": "2c1fd6a82cfa872d",
   "lastOpenFiles": [
-    "Daily Notes/Nov 7, 2023.md",
+    "Recipes.md",
+    "lasagna.md",
+    "/lasagna.md",
+    "/Templates/Daily notes template.md",
+    "Daily Notes/Nov 11, 2023.md",
+    "/Recipes.md",
+    "/Daily Notes/Nov 11th, 2023.md",
     "Daily Notes/Nov 6th, 2023.md",
+    "Daily Notes/Nov 7, 2023.md",
     "Daily Notes/Nov 7, 2024.md",
     "Daily Notes/Nov 6, 2023.md",
     "Templates/Daily notes template.md",
-    "Daily Notes/Nov 11, 2023.md",
     "README.md",
     "Daily Notes/Nov 8th, 2023.md",
     "Templates/Nov 10, 2023.md",
@@ -189,18 +195,12 @@
     "CustomJS",
     "Templates/2023-11-11.md",
     "Daily Notes/Nov 10th, 2023.md",
-    "/Templates/Daily notes template.md",
     "/README.md",
     "/Daily Notes/Obsidian reference & ideas.md",
     "/Daily Notes/Nov 9th, 2023.md",
-    "/Daily Notes/Nov 11th, 2023.md",
     "/Daily Notes/Nov 10th, 2023.md",
     "Daily Notes/Christmas lists.md",
     "Daily Notes/Obsidian reference & ideas.md",
-    "Daily Notes/Nov 9th, 2023.md",
-    "Templates/Daily notes.md",
-    "Studio XP/Subscriber Space.md",
-    "Templates",
-    "conflict-files-obsidian-git.md"
+    "Templates"
   ]
 }
