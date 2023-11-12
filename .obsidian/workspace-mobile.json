@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-11-06.md",
+                "file": "Daily Notes/Nov 6th, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/2023-11-06.md",
+            "file": "Daily Notes/Nov 6th, 2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/2023-11-06.md",
+            "file": "Daily Notes/Nov 6th, 2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/2023-11-06.md"
+            "file": "Daily Notes/Nov 6th, 2023.md"
           }
         }
       },
@@ -144,9 +144,17 @@
           "type": "reminder-list",
           "state": {}
         }
+      },
+      {
+        "id": "937da0e91fec6012",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,11 +172,11 @@
   },
   "active": "2c1fd6a82cfa872d",
   "lastOpenFiles": [
+    "Daily Notes/Nov 7, 2023.md",
+    "Daily Notes/Nov 6th, 2023.md",
     "Daily Notes/Nov 7, 2024.md",
-    "Daily Notes/2023-11-06.md",
     "Daily Notes/Nov 6, 2023.md",
     "Templates/Daily notes template.md",
-    "Daily Notes/Nov 7, 2023.md",
     "Daily Notes/Nov 11, 2023.md",
     "README.md",
     "Daily Notes/Nov 8th, 2023.md",
