@@ -3,4 +3,3 @@ tags:
   - dailynote
 date: {file.name}
 ---
-`=link(dateformat(date(this.file.name)+dur(1day), "MMM d, y"), "Next day")`
