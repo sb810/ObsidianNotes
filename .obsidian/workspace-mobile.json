@@ -11,8 +11,12 @@
             "id": "2c1fd6a82cfa872d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Nov 12, 2023.md",
+                "mode": "source",
+                "source": false
+              }
             },
             "group": "0840853f68253cf3"
           }
@@ -29,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/Nov 9th, 2023.md",
+                "file": "Daily Notes/Nov 12, 2023.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -135,6 +139,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Daily Notes/Nov 12, 2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,6 +156,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Daily Notes/Nov 12, 2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -161,7 +167,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Daily Notes/Nov 12, 2023.md"
+          }
         }
       },
       {
@@ -207,6 +215,7 @@
   },
   "active": "2c1fd6a82cfa872d",
   "lastOpenFiles": [
+    "Daily Notes/Nov 12, 2023.md",
     "Daily Notes/Nov 9th, 2023.md",
     "README.md",
     "Unsorted/Recipes.md",
@@ -237,7 +246,6 @@
     "/Daily Notes/Obsidian reference & ideas.md",
     "/Daily Notes/Nov 9th, 2023.md",
     "/Daily Notes/Nov 10th, 2023.md",
-    "Unsorted/Christmas lists.md",
     "Templates"
   ]
 }
