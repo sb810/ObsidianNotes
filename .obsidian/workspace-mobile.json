@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Nov 11th, 2023.md",
+                "file": "Unsorted/lasagna.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/Nov 11th, 2023.md",
+                "file": "Unsorted/lasagna.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,7 +139,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/Nov 11th, 2023.md",
+            "file": "Unsorted/lasagna.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/Nov 11th, 2023.md",
+            "file": "Unsorted/lasagna.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -168,7 +168,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/Nov 11th, 2023.md"
+            "file": "Unsorted/lasagna.md"
           }
         }
       },
@@ -215,6 +215,8 @@
   },
   "active": "2c1fd6a82cfa872d",
   "lastOpenFiles": [
+    "Daily Notes/Nov 10th, 2023.md",
+    "Daily Notes/Nov 11th, 2023.md",
     "Daily Notes/Nov 12th, 2023.md",
     "README.md",
     "Daily Notes/Nov 12, 2023.md",
@@ -241,8 +243,6 @@
     "Daily Notes/Nov 7, 2023.md",
     "Daily Notes/Nov 7, 2024.md",
     "Daily Notes/Nov 6, 2023.md",
-    "Templates/Daily notes template.md",
-    "Daily Notes/Nov 8th, 2023.md",
     "CustomJS/Scripts.js10181738817592",
     "Untitled 1",
     "CustomJS",
