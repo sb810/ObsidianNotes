@@ -2,8 +2,8 @@
   "showLineNumber": false,
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./",
-  "newFileLocation": "current",
+  "attachmentFolderPath": "Assets",
+  "newFileLocation": "folder",
   "mobileToolbarCommands": [
     "command-palette:open",
     "editor:insert-wikilink",
@@ -26,5 +26,6 @@
     "editor:insert-callout"
   ],
   "mobilePullAction": "obsidian-git:push",
-  "promptDelete": false
+  "promptDelete": false,
+  "newFileFolderPath": "Unsorted"
 }
