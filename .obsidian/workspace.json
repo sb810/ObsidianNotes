@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Nov 12, 2023.md",
+                "file": "Studio XP/Game Editor V2.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ui",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Nov 12, 2023.md",
+                "file": "Studio XP/Game Editor V2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Nov 12, 2023.md",
+                "file": "Studio XP/Game Editor V2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Nov 12, 2023.md"
+                "file": "Studio XP/Game Editor V2.md"
               }
             }
           },
@@ -249,9 +250,13 @@
   },
   "active": "f3db52ed7a814fdc",
   "lastOpenFiles": [
+    "Studio XP/Subscriber Space.md",
+    "Studio XP/Game Editor V2.md",
+    "Studio XP/_Todo.md",
+    "Unsorted/École Saint-Maurice.md",
     "Daily Notes/Nov 12th, 2023.md",
-    "conflict-files-obsidian-git.md",
     "Daily Notes/Nov 12, 2023.md",
+    "conflict-files-obsidian-git.md",
     "Unsorted/Recipes.md",
     "Unsorted/Obsidian reference & ideas.md",
     "Unsorted/lasagna.md",
@@ -263,13 +268,9 @@
     "CustomJS/Scripts.js",
     "CustomJS",
     "README.md",
-    "Studio XP/_Todo.md",
     "Daily Notes/Template.md",
     "Daily Notes/Nov 8th, 2023.md",
     "Daily Notes/Nov 10th, 2023.md",
-    "Studio XP/Game Editor V2.md",
-    "Studio XP/B2B/École Saint-Maurice.md",
-    "Studio XP/Subscriber Space.md",
     "orange prog button loads selectedExo, not first.md",
     "Studio XP/Game Editor.md",
     "Daily Notes/Nov 9th, 2023.md",

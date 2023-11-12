@@ -1,9 +1,3 @@
----
-
-kanban-plugin: basic
-
----
-
 ## Todo
 
 - [ ] #prog #ui implement completable conditions
@@ -13,8 +7,7 @@ kanban-plugin: basic
 
 
 ## In progress
-
-
+- [/] oi
 
 ## Done
 
@@ -25,12 +18,3 @@ kanban-plugin: basic
 - [x] Changer le nom du prof
 - [x] #editor #ui Recommencer / Sauvegarder en français (+ taille police 8px)
 - [x] #prog implement ifs & loops @{Nov 9th, 2023}
-
-
-
-
-%% kanban:settings
-```
-{"kanban-plugin":"basic"}
-```
-%%
