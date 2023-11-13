@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Nov 12, 2023.md",
+                "file": "Daily Notes/Nov 13, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/Nov 12, 2023.md",
+                "file": "Daily Notes/Nov 13, 2023.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,7 +139,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/Nov 12, 2023.md",
+            "file": "Daily Notes/Nov 13, 2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/Nov 12, 2023.md",
+            "file": "Daily Notes/Nov 13, 2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -168,7 +168,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/Nov 12, 2023.md"
+            "file": "Daily Notes/Nov 13, 2023.md"
           }
         }
       },
@@ -215,12 +215,13 @@
   },
   "active": "2c1fd6a82cfa872d",
   "lastOpenFiles": [
+    "Daily Notes/Nov 12, 2023.md",
+    "Daily Notes/Nov 13, 2023.md",
     "Daily Notes/Nov 12th, 2023.md",
     "Unsorted/lasagna.md",
     "Daily Notes/Nov 10th, 2023.md",
     "Daily Notes/Nov 11th, 2023.md",
     "README.md",
-    "Daily Notes/Nov 12, 2023.md",
     "Unsorted/École Saint-Maurice.md",
     "/Unsorted/École Saint-Maurice.md",
     "/Daily Notes/Nov 12th, 2023.md",
@@ -242,7 +243,6 @@
     "Daily Notes/Nov 6th, 2023.md",
     "Daily Notes/Nov 7, 2023.md",
     "Daily Notes/Nov 7, 2024.md",
-    "Daily Notes/Nov 6, 2023.md",
     "CustomJS/Scripts.js10181738817592",
     "Untitled 1",
     "CustomJS",
