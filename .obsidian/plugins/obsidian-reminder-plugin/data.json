@@ -1,11 +1,19 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "Daily Notes/Nov 13, 2023.md": [
+      {
+        "title": "task",
+        "time": "2023-11-13 12:16",
+        "rowNumber": 10
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
     "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
-    "useSystemNotification": false,
+    "useSystemNotification": true,
     "autoCompleteTrigger": "(@",
     "primaryReminderFormat": "ReminderPluginReminderFormat",
     "enableReminderPluginReminderFormat": true,
