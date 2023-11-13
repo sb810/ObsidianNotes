@@ -4,6 +4,8 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "status": "text",
-    "completed": "date"
+    "completed": "date",
+    "due": "date",
+    "archived": "checkbox"
   }
 }

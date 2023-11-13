@@ -4,7 +4,9 @@
     {
       "fieldConfig": {},
       "defaultName": "",
-      "templates": [],
+      "templates": [
+        "Templates/Project task.md"
+      ],
       "excludedNotes": [],
       "isDefault": false,
       "dataSource": {
@@ -48,16 +50,16 @@
                 }
               },
               {
-                "color": "#a882ff",
+                "color": "#ff0000",
                 "condition": {
-                  "field": "status",
-                  "operator": "is",
+                  "field": "urgent",
+                  "operator": "is-checked",
                   "enabled": true,
                   "value": "Todo"
                 }
               },
               {
-                "color": "#e9fa00",
+                "color": "#00bbfa",
                 "condition": {
                   "field": "status",
                   "operator": "is",
@@ -71,6 +73,15 @@
                   "field": "status",
                   "operator": "is-empty",
                   "enabled": true
+                }
+              },
+              {
+                "color": "#a3a3a3",
+                "condition": {
+                  "field": "status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Todo"
                 }
               }
             ]
