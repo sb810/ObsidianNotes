@@ -23,8 +23,12 @@
             "id": "ca73386e8cf91ae1",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Nov 18, 2023.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Notes/Nov 18, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Notes/Nov 18, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Notes/Nov 18, 2023.md"
+              }
             }
           },
           {
@@ -208,6 +216,7 @@
   },
   "active": "ca73386e8cf91ae1",
   "lastOpenFiles": [
+    "Daily Notes/Nov 18, 2023.md",
     "Unsorted/monads.md",
     "Unsorted/![[OIG (6).jpeg.md",
     "Daily Notes/Nov 13, 2023.md",
@@ -246,7 +255,6 @@
     "Unsorted",
     "Daily Notes/Nov 12th, 2023.md",
     "Recipes.md",
-    "Daily Notes/Nov 11, 2023.md",
     "CustomJS/Scripts.js",
     "CustomJS",
     "Templates",
