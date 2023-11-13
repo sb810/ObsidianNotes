@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f25efdfde16381f7",
+        "id": "816a44065258a825",
         "type": "tabs",
         "children": [
           {
-            "id": "141d5978f7c32201",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/Nov 12th, 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e291e3c23f0192f",
+            "id": "b3ca3dc770c9318b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,53 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6cc38b0046c46d03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Project task.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b5a9ac4d6abb15a",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
-            "id": "92b093fadbf76d28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studio XP/Subscriber Space/Make the + and - pictogram disappear (no more accordion).md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "36dfb987c0904dcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studio XP/Subscriber Space/Subscriber Space.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Notes/Nov 12, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Notes/Nov 12, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Notes/Nov 12, 2023.md"
+              }
             }
           },
           {
@@ -225,19 +172,27 @@
             }
           },
           {
-            "id": "3102fe72efa137fa",
+            "id": "b57b0702332a3d88",
             "type": "leaf",
             "state": {
-              "type": "git-history-view",
+              "type": "google-calendar-view-schedule",
+              "state": {}
+            }
+          },
+          {
+            "id": "0e12b86a8663fd47",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-day",
               "state": {}
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 643.5
+    "width": 571.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,43 +205,42 @@
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-day-planner:Timeline": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "5b5a9ac4d6abb15a",
+  "active": "b3ca3dc770c9318b",
   "lastOpenFiles": [
-    "Studio XP/Subscriber Space/Untitled note.md",
-    "Templates/Project task.md",
-    "Studio XP/Subscriber Space/Make the + and - pictogram disappear (no more accordion).md",
-    "Studio XP/Subscriber Space/Subscriber Space.md",
-    "Templates/Daily notes template.md",
-    "Studio XP/Subscriber Space/New note.md",
-    "Studio XP/Subscriber Space/Add a return button in participant edition page.md",
-    "Daily Notes/Nov 12, 2023.md",
-    "Studio XP/Subscriber Space/Dashboard panel open by default if there's only one.md",
-    "Studio XP/Subscriber Space/Add more infos to main account and configure data fetching.md",
-    "README.md",
-    "Daily Notes/Nov 12th, 2023.md",
-    "Daily Notes/Nov 9th, 2023.md",
-    "Daily Notes/Nov 10th, 2023.md",
-    "Daily Notes/Nov 11th, 2023.md",
-    "Studio XP/Subscriber Space",
-    "Studio XP/Game Editor V2.md",
-    "Unsorted/Untitled.md",
-    "Studio XP/_Todo.md",
-    "Unsorted/École Saint-Maurice.md",
     "conflict-files-obsidian-git.md",
+    "Templates/Project task.md",
+    "Studio XP/Subscriber Space/Untitled note.md",
+    "Studio XP/Subscriber Space/Subscriber Space.md",
+    "Studio XP/Subscriber Space/Dashboard panel open by default if there's only one.md",
+    "Studio XP/Subscriber Space/Make the + and - pictogram disappear (no more accordion).md",
+    "Studio XP/Subscriber Space/Add more infos to main account and configure data fetching.md",
+    "Studio XP/Subscriber Space/Add a return button in participant edition page.md",
+    "Studio XP/Subscriber Space",
+    "Daily Notes/Nov 12, 2023.md",
+    "Unsorted/École Saint-Maurice.md",
+    "Unsorted/Untitled.md",
     "Unsorted/Recipes.md",
     "Unsorted/Obsidian reference & ideas.md",
     "Unsorted/lasagna.md",
     "Unsorted/Christmas lists.md",
     "Unsorted",
-    "Templates",
+    "Daily Notes/Nov 12th, 2023.md",
+    "Recipes.md",
+    "Daily Notes/Nov 11, 2023.md",
+    "Daily Notes/Nov 11th, 2023.md",
+    "lasagna.md",
+    "Daily Notes/Nov 10th, 2023.md",
+    "Daily Notes/Nov 9th, 2023.md",
+    "Daily Notes/Christmas lists.md",
+    "Daily Notes/Nov 7, 2023.md",
+    "Daily Notes/Nov 6th, 2023.md",
+    "README.md",
     "CustomJS/Scripts.js",
     "CustomJS",
-    "Daily Notes/Template.md",
-    "Daily Notes/Nov 8th, 2023.md",
+    "Templates",
     "Studio XP/B2B",
     "Pasted image 20231109143541.png",
     "Studio XP",
