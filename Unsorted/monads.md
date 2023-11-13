@@ -8,13 +8,13 @@ Using monads, it can be a lot easier to check for potential exceptions in a decl
 
 Consider the following script performing chain actions on an object :
 
-```
+```c#
 myPerson.getBestFriend().gender.equals("male");
 ```
 
 At any point, these values could be invalid or `null`. So, in order to write maintainable code, we would write :
 
-```
+```c#
 if(myPerson != null) 
 {
 	if(myPerson.getBestFriend() != null)
@@ -31,9 +31,9 @@ Or we can do a try/catch.
 
 Monads handle the situation differently. We would firstly need a wrapper object :
 
-```
+```c#
 class MyMonad {
-	Value value;
+	var value;
 	constructor(value){
 		this.value = value;
 	}
@@ -47,8 +47,8 @@ class MyMonad {
 
 Then, the desired output can be [[composed]] through the chaining of these monads. 
 
-```
-let isMale = MyMonad(myPerson)
+```c#
+var isMale = MyMonad(myPerson)
 .bind(person => person.getBestFriend())
 .bind(person => person.gender)
 .bind(gender => gender.equals("male"));
