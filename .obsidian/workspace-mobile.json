@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/Nov 18, 2023.md",
+                "file": "Daily Notes/Nov 13, 2023.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Nov 18, 2023.md",
+                "file": "Daily Notes/Nov 13, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/Nov 18, 2023.md",
+            "file": "Daily Notes/Nov 13, 2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/Nov 18, 2023.md",
+            "file": "Daily Notes/Nov 13, 2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -160,7 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/Nov 18, 2023.md"
+            "file": "Daily Notes/Nov 13, 2023.md"
           }
         }
       },
@@ -206,10 +206,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "251f340f64d271b5",
+  "active": "11357ab673720677",
   "lastOpenFiles": [
-    "Unsorted/Subscriber Space.md",
     "Daily Notes/Nov 18, 2023.md",
+    "Unsorted/Subscriber Space.md",
     "Daily Notes/Nov 13, 2023.md",
     "Pasted image 20231112233848.png",
     "Unsorted/monads.md",
