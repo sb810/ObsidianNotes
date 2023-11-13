@@ -1,14 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "Daily Notes/Nov 13, 2023.md": [
-      {
-        "title": "task",
-        "time": "2023-11-13 12:16",
-        "rowNumber": 10
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
