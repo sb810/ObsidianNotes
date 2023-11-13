@@ -20,28 +20,6 @@
             }
           },
           {
-            "id": "626da1c7889ae7c7",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "7c64f5a179b2bd49",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": true
-              }
-            }
-          },
-          {
             "id": "1e291e3c23f0192f",
             "type": "leaf",
             "state": {
@@ -66,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,12 +228,12 @@
   },
   "active": "f3db52ed7a814fdc",
   "lastOpenFiles": [
+    "Daily Notes/Nov 12th, 2023.md",
+    "Studio XP/Subscriber Space.md",
     "Studio XP/Game Editor V2.md",
     "Unsorted/Untitled.md",
-    "Studio XP/Subscriber Space.md",
     "Studio XP/_Todo.md",
     "Unsorted/École Saint-Maurice.md",
-    "Daily Notes/Nov 12th, 2023.md",
     "Daily Notes/Nov 12, 2023.md",
     "conflict-files-obsidian-git.md",
     "Unsorted/Recipes.md",
