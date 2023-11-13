@@ -26,7 +26,8 @@
                 "hide": true
               },
               "name": {
-                "hide": false
+                "hide": false,
+                "width": 438
               }
             },
             "orderFields": [
@@ -96,7 +97,9 @@
         {
           "config": {
             "groupByField": "status",
-            "includeFields": []
+            "includeFields": [
+              "urgent"
+            ]
           },
           "filter": {
             "conditions": []

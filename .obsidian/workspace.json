@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Nov 12, 2023.md",
+                "file": "Unsorted/Subscriber Space.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca73386e8cf91ae1",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Nov 12, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Nov 12, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/Nov 12, 2023.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,23 +177,15 @@
             }
           },
           {
-            "id": "b57b0702332a3d88",
+            "id": "4eccf03dda52a29f",
             "type": "leaf",
             "state": {
-              "type": "google-calendar-view-schedule",
-              "state": {}
-            }
-          },
-          {
-            "id": "0e12b86a8663fd47",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-day",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -196,6 +193,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-projects:Open projects": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -208,18 +206,24 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "b3ca3dc770c9318b",
+  "active": "ca73386e8cf91ae1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Templates/Project task.md",
-    "Studio XP/Subscriber Space/Untitled note.md",
-    "Studio XP/Subscriber Space/Subscriber Space.md",
-    "Studio XP/Subscriber Space/Dashboard panel open by default if there's only one.md",
+    "Unsorted/Subscriber Space.md",
+    "Pasted image 20231112233848.png",
+    "README.md",
+    "Daily Notes/Nov 12, 2023.md",
+    "Studio XP/Game Editor V2.md",
+    "Studio XP/_Todo.md",
     "Studio XP/Subscriber Space/Make the + and - pictogram disappear (no more accordion).md",
+    "Studio XP/Subscriber Space/Untitled note.md",
+    "Templates/Project task.md",
+    "Templates/Daily notes template.md",
+    "Studio XP/Subscriber Space/Subscriber Space.md",
+    "conflict-files-obsidian-git.md",
+    "Studio XP/Subscriber Space/Dashboard panel open by default if there's only one.md",
     "Studio XP/Subscriber Space/Add more infos to main account and configure data fetching.md",
     "Studio XP/Subscriber Space/Add a return button in participant edition page.md",
     "Studio XP/Subscriber Space",
-    "Daily Notes/Nov 12, 2023.md",
     "Unsorted/École Saint-Maurice.md",
     "Unsorted/Untitled.md",
     "Unsorted/Recipes.md",
@@ -232,12 +236,6 @@
     "Daily Notes/Nov 11, 2023.md",
     "Daily Notes/Nov 11th, 2023.md",
     "lasagna.md",
-    "Daily Notes/Nov 10th, 2023.md",
-    "Daily Notes/Nov 9th, 2023.md",
-    "Daily Notes/Christmas lists.md",
-    "Daily Notes/Nov 7, 2023.md",
-    "Daily Notes/Nov 6th, 2023.md",
-    "README.md",
     "CustomJS/Scripts.js",
     "CustomJS",
     "Templates",

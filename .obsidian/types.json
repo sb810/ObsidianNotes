@@ -5,7 +5,6 @@
     "tags": "tags",
     "status": "text",
     "completed": "date",
-    "due": "date",
-    "archived": "checkbox"
+    "due": "date"
   }
 }
