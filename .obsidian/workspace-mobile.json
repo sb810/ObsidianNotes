@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unsorted/Subscriber Space.md",
+                "file": "Daily Notes/Nov 18, 2023.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unsorted/Subscriber Space.md",
+                "file": "Daily Notes/Nov 18, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Unsorted/Subscriber Space.md",
+            "file": "Daily Notes/Nov 18, 2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Unsorted/Subscriber Space.md",
+            "file": "Daily Notes/Nov 18, 2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -160,7 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Unsorted/Subscriber Space.md"
+            "file": "Daily Notes/Nov 18, 2023.md"
           }
         }
       },
@@ -189,7 +189,7 @@
         }
       }
     ],
-    "currentTab": 5
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,8 +206,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "11357ab673720677",
+  "active": "251f340f64d271b5",
   "lastOpenFiles": [
+    "Unsorted/Subscriber Space.md",
+    "Daily Notes/Nov 18, 2023.md",
     "Daily Notes/Nov 13, 2023.md",
     "Pasted image 20231112233848.png",
     "Unsorted/monads.md",
@@ -237,7 +239,6 @@
     "/Daily Notes/Nov 9th, 2023.md",
     "/Daily Notes/Nov 11th, 2023.md",
     "/Daily Notes/Nov 10th, 2023.md",
-    "Unsorted/Subscriber Space.md",
     "/Unsorted/Subscriber Space.md",
     "Studio XP/Subscriber Space",
     "/Studio XP/Subscriber Space",
