@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/Nov 13, 2023.md",
+                "file": "Unsorted/monads.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Nov 13, 2023.md",
+                "file": "Unsorted/monads.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/Nov 13, 2023.md",
+            "file": "Unsorted/monads.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/Nov 13, 2023.md",
+            "file": "Unsorted/monads.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -160,7 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/Nov 13, 2023.md"
+            "file": "Unsorted/monads.md"
           }
         }
       },
@@ -208,6 +208,9 @@
   },
   "active": "251f340f64d271b5",
   "lastOpenFiles": [
+    "Pasted image 20231112233848.png",
+    "Unsorted/monads.md",
+    "Daily Notes/Nov 13, 2023.md",
     "Assets/OIG (4).jpeg",
     "Assets/OIG.UtJk7w0Ir20.jpeg",
     "Assets/OIG.JEM5Dt8eaexBD_Q3b.jpeg",
@@ -215,12 +218,10 @@
     "Assets/OIG.QXW1WCqibKZl 1.jpeg",
     "Assets/OIG (6) 1.jpeg",
     "Unsorted/![[OIG (6).jpeg.md",
-    "Daily Notes/Nov 13, 2023.md",
     "Assets/OIG (6).jpeg",
     "Assets/OIG.QXW1WCqibKZl.jpeg",
     "Assets/OIG (7).jpeg",
     "Assets/OIG.CzQk.jpeg",
-    "Assets/OIG.rARuo3DDI5fFY.jpeg",
     "/Templates/Daily notes template.md",
     "/Daily Notes/Nov 12th, 2023.md",
     "Templates/Project task.md",
@@ -245,7 +246,6 @@
     "Daily Notes/Nov 12th, 2023.md",
     "Unsorted/lasagna.md",
     "Daily Notes/Nov 10th, 2023.md",
-    "Daily Notes/Nov 11th, 2023.md",
     "Unsorted",
     "Assets",
     "CustomJS/Scripts.js10181738817592",
