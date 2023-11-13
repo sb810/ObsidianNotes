@@ -20,28 +20,6 @@
             }
           },
           {
-            "id": "626da1c7889ae7c7",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "7c64f5a179b2bd49",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": true
-              }
-            }
-          },
-          {
             "id": "1e291e3c23f0192f",
             "type": "leaf",
             "state": {
@@ -54,19 +32,39 @@
             }
           },
           {
-            "id": "f3db52ed7a814fdc",
+            "id": "6cc38b0046c46d03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studio XP/Subscriber Space.md",
+                "file": "Templates/Project task.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b5a9ac4d6abb15a",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
+          },
+          {
+            "id": "92b093fadbf76d28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studio XP/Subscriber Space/Make the + and - pictogram disappear (no more accordion).md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ui",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -133,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studio XP/Subscriber Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studio XP/Subscriber Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Studio XP/Subscriber Space.md"
-              }
+              "state": {}
             }
           },
           {
@@ -245,49 +238,51 @@
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "f3db52ed7a814fdc",
+  "active": "5b5a9ac4d6abb15a",
   "lastOpenFiles": [
+    "Unsorted/Subscriber Space.md",
+    "Pasted image 20231112233848.png",
+    "Studio XP/Subscriber Space/Untitled note.md",
+    "Templates/Project task.md",
+    "Studio XP/Subscriber Space/Make the + and - pictogram disappear (no more accordion).md",
+    "Studio XP/Subscriber Space/Subscriber Space.md",
+    "Templates/Daily notes template.md",
+    "Studio XP/Subscriber Space/New note.md",
+    "Studio XP/Subscriber Space/Add a return button in participant edition page.md",
+    "Daily Notes/Nov 12, 2023.md",
+    "Studio XP/Subscriber Space/Dashboard panel open by default if there's only one.md",
+    "Studio XP/Subscriber Space/Add more infos to main account and configure data fetching.md",
+    "README.md",
+    "Daily Notes/Nov 12th, 2023.md",
+    "Daily Notes/Nov 9th, 2023.md",
+    "Daily Notes/Nov 10th, 2023.md",
+    "Daily Notes/Nov 11th, 2023.md",
+    "Studio XP/Subscriber Space",
     "Studio XP/Game Editor V2.md",
     "Unsorted/Untitled.md",
-    "Studio XP/Subscriber Space.md",
     "Studio XP/_Todo.md",
     "Unsorted/École Saint-Maurice.md",
-    "Daily Notes/Nov 12th, 2023.md",
-    "Daily Notes/Nov 12, 2023.md",
     "conflict-files-obsidian-git.md",
     "Unsorted/Recipes.md",
     "Unsorted/Obsidian reference & ideas.md",
     "Unsorted/lasagna.md",
     "Unsorted/Christmas lists.md",
     "Unsorted",
-    "Templates/Daily notes template.md",
     "Templates",
-    "Daily Notes/Nov 11th, 2023.md",
     "CustomJS/Scripts.js",
     "CustomJS",
-    "README.md",
     "Daily Notes/Template.md",
-    "Daily Notes/Nov 8th, 2023.md",
-    "Daily Notes/Nov 10th, 2023.md",
-    "orange prog button loads selectedExo, not first.md",
-    "Studio XP/Game Editor.md",
-    "Daily Notes/Nov 9th, 2023.md",
-    "Studio XP/B2B/B2B.md",
-    "Studio XP/B2B.md",
     "Studio XP/B2B",
     "Pasted image 20231109143541.png",
     "Studio XP",
     "Daily Notes",
-    "2023-11-09.md",
-    "2023-11-24.md",
-    "Current Tasks.md",
     "gizmo_icon_bg.png",
     "gizmo_icon_bg.png.meta",
     "Untitled.canvas",
-    "Users/sb810",
-    "Users"
+    "Users/sb810"
   ]
 }
