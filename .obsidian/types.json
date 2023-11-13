@@ -3,7 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "date": "date",
-    "score": "number"
+    "status": "text",
+    "completed": "date"
   }
 }

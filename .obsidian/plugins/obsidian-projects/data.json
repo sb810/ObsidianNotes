@@ -1,0 +1,132 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Studio XP/Subscriber Space",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "width": 351,
+                "hide": true
+              },
+              "name": {
+                "hide": false
+              }
+            },
+            "orderFields": [
+              "name",
+              "status",
+              "path"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#00ff04",
+                "condition": {
+                  "field": "status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Done"
+                }
+              },
+              {
+                "color": "#a882ff",
+                "condition": {
+                  "field": "status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Todo"
+                }
+              },
+              {
+                "color": "#e9fa00",
+                "condition": {
+                  "field": "status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "In Progress"
+                }
+              },
+              {
+                "color": "#ff8080",
+                "condition": {
+                  "field": "status",
+                  "operator": "is-empty",
+                  "enabled": true
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "175f9e37-5d7d-4440-821d-3ec159a3303e",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "includeFields": []
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "da869051-c54b-45cb-80ee-f8c13a844d75",
+          "name": "Board",
+          "type": "board"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "62235bce-5e37-48f3-80ec-1c37d1220f35",
+          "name": "Calendar",
+          "type": "calendar"
+        }
+      ],
+      "id": "a767ca07-01f9-43e0-9287-54e6907d0a23",
+      "name": "Subscriber Space"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}
