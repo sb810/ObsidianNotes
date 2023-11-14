@@ -1,3 +1,7 @@
+---
+sticker: emoji//2694-fe0f
+color: "#fa8231"
+---
 ## Backlog
 - [ ] Completable conditions
 - [ ] Orange prog button loads selected exercise, not first

@@ -18,7 +18,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "Spaces/Home",
+  "activeView": "Studio XP",
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
@@ -35,7 +35,14 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//Studio XP",
+    "//Spaces/Spaces/Home",
+    "//Spaces",
+    "//Studio XP",
+    "Studio XP/Studio XP/Subscriber Space",
+    "Studio XP/Studio XP/Subscriber Space",
+    "Studio XP/Studio XP/Subscriber Space"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -60,7 +67,8 @@
   "waypoints": [
     "Spaces/Home",
     "/",
-    "spaces://$tags"
+    "spaces://$tags",
+    "Studio XP"
   ],
   "rootSpaces": [],
   "spacesUseAlias": false,

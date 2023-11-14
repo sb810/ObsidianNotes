@@ -15,5 +15,7 @@
   "buttons",
   "callout-manager",
   "obsidian-list-callouts",
-  "make-md"
+  "make-md",
+  "highlightr-plugin",
+  "auto-card-link"
 ]

@@ -1,6 +1,10 @@
+---
+sticker: emoji//1f3af
+color: "#eb3b5a"
+---
 ### Todo
 - [x] Do some work on [[Subscriber Space]] ✅ 2023-11-14
-- [x] [[Game Editor V2]] ✅ 2023-11-14
+- [x] [[Game Editor]] ✅ 2023-11-14
 - [ ] Traiter [[École Saint-Maurice]] sur document [[b2b]]
 - [x] Notifier [[David]] des changements [[b2b]] ✅ 2023-11-14
 - [ ] Fix Florian Geslin's Gather classroom
