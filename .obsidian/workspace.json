@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamped/Weekly notes/2023-W45.md",
+                "file": "Studio XP/🎯 Master.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timestamped/Weekly notes/2023-W45.md",
+                "file": "Studio XP/🎯 Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timestamped/Weekly notes/2023-W45.md",
+                "file": "Studio XP/🎯 Master.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timestamped/Weekly notes/2023-W45.md"
+                "file": "Studio XP/🎯 Master.md"
               }
             }
           },
@@ -216,10 +216,14 @@
   },
   "active": "6cc38b0046c46d03",
   "lastOpenFiles": [
-    "Templates/Project task.md",
-    "Timestamped/Weekly notes/2023-W45.md",
-    "Studio XP/Subscriber Space/Make the + and - pictogram disappear (no more accordion).md",
+    "Timestamped/Daily notes/Nov 14, 2023.md",
     "Timestamped/Daily notes/Nov 12, 2023.md",
+    "Timestamped/Daily notes/Nov 13, 2023.md",
+    "Timestamped/Daily notes/Nov 18, 2023.md",
+    "Timestamped/Weekly notes/2023-W45.md",
+    "README.md",
+    "Templates/Project task.md",
+    "Studio XP/Subscriber Space/Make the + and - pictogram disappear (no more accordion).md",
     "Assets/OIG.UtJk7w0Ir20.jpeg",
     "Assets/OIG.rARuo3DDI5fFY.jpeg",
     "Templates/Weekly notes template.md",
@@ -231,9 +235,6 @@
     "Daily Notes/Untitled 1",
     "Daily Notes/Untitled",
     "Studio XP/Weekly todo",
-    "Timestamped/Daily notes/Nov 14, 2023.md",
-    "Timestamped/Daily notes/Nov 13, 2023.md",
-    "Timestamped/Daily notes/Nov 18, 2023.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20231112233848.png",
     "Daily Notes/Nov 9th, 2023.md",
@@ -258,7 +259,6 @@
     "Templates/Daily notes template.md",
     "Studio XP/Subscriber Space/New note.md",
     "Studio XP/Subscriber Space/Add a return button in participant edition page.md",
-    "Studio XP/Subscriber Space/Dashboard panel open by default if there's only one.md",
     "Studio XP/Subscriber Space",
     "Unsorted",
     "Templates",

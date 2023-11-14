@@ -13,7 +13,23 @@
 ### core team
 - [ ] Démo game editor
 
+### Backlog
 ```jira-search
 type: TABLE
-query: project="ge"
+query: project="GE" AND status = "backlog" order by priority
+```
+
+
+
+
+
+
+
+
+
+
+### In Progress
+```jira-search
+type: TABLE
+query: project="GE" AND status = "en cours" order by priority
 ```

@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasTimeline",
       "FasCalendarWeek",
       "FasListCheck",
       "FabAdversal",
@@ -29,5 +30,6 @@
     "inheritanceIcon": "FasCalendarDay"
   },
   "Timestamped/Daily notes": "FasCalendarDay",
-  "Timestamped/Weekly notes": "FasCalendarWeek"
+  "Timestamped/Weekly notes": "FasCalendarWeek",
+  "Timestamped": "FasTimeline"
 }
