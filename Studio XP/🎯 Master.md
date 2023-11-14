@@ -7,3 +7,4 @@
 - Changements B2B : Saint-Maurice et Kiwetin pour hiver
 - Game Editor delivered (travail sur bugfix critique)
 - Premiers commits subscriber space
+- Création de comptes + onboarding Nicolas Pons
