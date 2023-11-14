@@ -4,39 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "29615af4871cbe14",
+        "id": "f25efdfde16381f7",
         "type": "tabs",
         "children": [
           {
-            "id": "c7231778999d6eb5",
-            "type": "leaf",
-            "state": {
-              "type": "weekly",
-              "state": {}
-            }
-          },
-          {
-            "id": "a4218dd8a564014f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2f478552964a13c8",
+            "id": "1e291e3c23f0192f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamped/Daily notes/Nov 14, 2023.md",
+                "file": "Timestamped/Daily notes/Nov 12, 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cc38b0046c46d03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studio XP/🎯 Master.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +91,6 @@
       {
         "id": "5b338fe9a7e72fef",
         "type": "tabs",
-        "dimension": 37.1124031007752,
         "children": [
           {
             "id": "f4277da60d74144d",
@@ -103,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timestamped/Daily notes/Nov 14, 2023.md",
+                "file": "Studio XP/🎯 Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timestamped/Daily notes/Nov 14, 2023.md",
+                "file": "Studio XP/🎯 Master.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,8 +138,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timestamped/Daily notes/Nov 14, 2023.md"
+                "file": "Studio XP/🎯 Master.md"
               }
+            }
+          },
+          {
+            "id": "0d346c2bb0a04b3d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b90f086486e1d98",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "6516e3b188873386",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
             }
           },
           {
@@ -158,22 +177,6 @@
             }
           },
           {
-            "id": "0d346c2bb0a04b3d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "6516e3b188873386",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
-          },
-          {
             "id": "491b29761fe94f8d",
             "type": "leaf",
             "state": {
@@ -182,38 +185,22 @@
             }
           },
           {
-            "id": "4eccf03dda52a29f",
+            "id": "3102fe72efa137fa",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "git-history-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "0e510905015cfde9",
-        "type": "tabs",
-        "dimension": 62.8875968992248,
-        "children": [
-          {
-            "id": "0b90f086486e1d98",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 643.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-projects:Open projects": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -222,36 +209,43 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "2f478552964a13c8",
+  "active": "6cc38b0046c46d03",
   "lastOpenFiles": [
-    "Timestamped/Daily notes/Nov 13, 2023.md",
-    "Timestamped/Daily notes/Nov 14, 2023.md",
-    "Studio XP/Subscriber Space/New note.md",
-    "Timestamped/Daily notes/Nov 18, 2023.md",
-    "Unsorted/Subscriber Space.md",
-    "Timestamped/Weekly notes/2023-W45.md",
-    "Templates/Weekly notes template.md",
+    "Studio XP/Game Editor V2.md",
     "Studio XP/🎯 Master.md",
-    "Daily Notes/Nov 18, 2023.md",
-    "Timestamped/Daily notes/Nov 9, 2023.md",
     "Timestamped/Daily notes/Nov 12, 2023.md",
+    "Timestamped/Daily notes/Nov 14, 2023.md",
+    "Timestamped/Daily notes/Nov 13, 2023.md",
+    "Timestamped/Daily notes/Nov 18, 2023.md",
+    "Timestamped/Weekly notes/2023-W45.md",
+    "README.md",
+    "Templates/Project task.md",
+    "Studio XP/Subscriber Space/Make the + and - pictogram disappear (no more accordion).md",
+    "Assets/OIG.UtJk7w0Ir20.jpeg",
+    "Assets/OIG.rARuo3DDI5fFY.jpeg",
+    "Templates/Weekly notes template.md",
+    "Unsorted/![[OIG (6).jpeg.md",
+    "Timestamped/Weekly notes",
+    "Timestamped",
+    "Weekly Notes",
+    "Daily Notes/Untitled 1",
+    "Daily Notes/Untitled",
+    "Studio XP/Weekly todo",
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20231112233848.png",
+    "Daily Notes/Nov 9th, 2023.md",
+    "Daily Notes/Nov 12th, 2023.md",
+    "Daily Notes/Nov 11th, 2023.md",
+    "Daily Notes/Nov 10th, 2023.md",
+    "Unsorted/monads.md",
+    "Timestamped/Daily notes/Nov 9, 2023.md",
     "Timestamped/Daily notes/Nov 11, 2023.md",
     "Timestamped/Daily notes/Nov 10, 2023.md",
-    "Timestamped/Weekly notes",
-    "Timestamped/Daily notes",
-    "Timestamped",
-    "Daily Notes/Nov 9, 2023.md",
-    "Daily Notes/Nov 11, 2023.md",
-    "Daily Notes/Nov 10, 2023.md",
-    "Unsorted/monads.md",
-    "Unsorted/![[OIG (6).jpeg.md",
-    "Daily Notes/Nov 13, 2023.md",
-    "Assets/OIG.rARuo3DDI5fFY.jpeg",
-    "Assets/OIG.UtJk7w0Ir20.jpeg",
     "Assets/OIG.QXW1WCqibKZl.jpeg",
     "Assets/OIG.QXW1WCqibKZl 1.jpeg",
     "Assets/OIG.JEM5Dt8eaexBD_Q3b.jpeg",
@@ -259,21 +253,15 @@
     "Assets/OIG (7).jpeg",
     "Assets/OIG (6).jpeg",
     "Assets/OIG (6) 1.jpeg",
-    "Assets/OIG (5).jpeg",
     "Assets",
-    "README.md",
-    "Daily Notes/Nov 12, 2023.md",
-    "Studio XP/Game Editor V2.md",
-    "Studio XP/_Todo.md",
-    "Studio XP/Subscriber Space/Make the + and - pictogram disappear (no more accordion).md",
+    "Unsorted/Subscriber Space.md",
     "Studio XP/Subscriber Space/Untitled note.md",
-    "Templates/Project task.md",
+    "Studio XP/Subscriber Space/Subscriber Space.md",
+    "Templates/Daily notes template.md",
+    "Studio XP/Subscriber Space/New note.md",
     "Studio XP/Subscriber Space",
     "Unsorted",
-    "CustomJS/Scripts.js",
-    "CustomJS",
     "Templates",
-    "Studio XP/B2B",
     "Untitled.canvas"
   ]
 }
