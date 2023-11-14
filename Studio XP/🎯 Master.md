@@ -6,9 +6,9 @@
 - [ ] Fix Florian Geslin's Gather classroom
 
 ### notes réu w/ David
-- [ ] Reporting hebdo b2b/recrutement/gameeditor/subscriberspace
+- [ ] Planifier reporting hebdo b2b/recrutement/gameeditor/subscriberspace
       livrables plutôt que tâches, mardi avant CT
 - [ ] Pousser un peu b2b avant décembre
 
 ### core team
-- Démo game editor
+- [ ] Démo game editor
