@@ -1,16 +1,16 @@
-### todo
+### Todo
 - [x] Do some work on [[Subscriber Space]] ✅ 2023-11-14
 - [x] [[Game Editor V2]] ✅ 2023-11-14
 - [ ] Traiter [[École Saint-Maurice]] sur document [[b2b]]
 - [x] Notifier [[David]] des changements [[b2b]] ✅ 2023-11-14
 - [ ] Fix Florian Geslin's Gather classroom
 
-### notes réu w/ David
+### Notes réu w/ David
 - [ ] Planifier reporting hebdo b2b/recrutement/gameeditor/subscriberspace
       livrables plutôt que tâches, mardi avant CT
 - [ ] Pousser un peu b2b avant décembre
 
-### core team
+### Core team
 - [ ] Démo game editor
 
 ### Backlog

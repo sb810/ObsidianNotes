@@ -1,4 +1,3 @@
-.collapse-indicator:hover {
-    cursor: pointer;
-    background-color: #
+.markdown-source-view.mod-cm6 .cm-fold-indicator .collapse-indicator:hover {
+    cursor: var(--cursor-link);
 }
