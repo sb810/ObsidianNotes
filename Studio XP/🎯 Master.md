@@ -1,17 +1,14 @@
-- [ ] Do some work on [[Subscriber Space]]
-- [ ] [[Game Editor V2]]
+### todo
+- [x] Do some work on [[Subscriber Space]] ✅ 2023-11-14
+- [x] [[Game Editor V2]] ✅ 2023-11-14
 - [ ] Traiter [[École Saint-Maurice]] sur document [[b2b]]
-- [ ] Notifier [[David]] des changements [[b2b]] 
+- [x] Notifier [[David]] des changements [[b2b]] ✅ 2023-11-14
+- [ ] Fix Florian Geslin's Gather classroom
 
+### notes réu w/ David
+- [ ] Reporting hebdo b2b/recrutement/gameeditor/subscriberspace
+      livrables plutôt que tâches, mardi avant CT
+- [ ] Pousser un peu b2b avant décembre
 
-- Changements B2B : Saint-Maurice et Kiwetin pour hiver
-- Game Editor delivered (travail sur bugfix critique)
-- Premiers commits subscriber space
-- Création de comptes + onboarding Nicolas Pons
-
-Reporting hebdo b2b/recrutement
-	- livrables plutôt que tâches, mardi avant CT
-
-Pousser un peu b2b avant décembre
-
-Démo game editor en core team
+### core team
+- Démo game editor
