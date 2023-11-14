@@ -11,6 +11,7 @@
 ### Core team
 - [x] Démo game editor ✅ 2023-11-14
 ## Game Editor / Jira
+
 ### In Progress
 ```jira-search
 type: TABLE

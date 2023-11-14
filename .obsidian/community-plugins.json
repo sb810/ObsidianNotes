@@ -6,8 +6,14 @@
   "templater-obsidian",
   "obsidian-icon-folder",
   "obsidian-day-planner",
-  "obsidian-reminder-plugin",
   "obsidian-git",
   "obsidian-projects",
-  "obsidian-jira-issue"
+  "ticktick",
+  "obsidian-jira-issue",
+  "emoji-shortcodes",
+  "badges",
+  "buttons",
+  "callout-manager",
+  "obsidian-list-callouts",
+  "make-md"
 ]

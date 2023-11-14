@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4745a879b0f21933",
+            "type": "leaf",
+            "state": {
+              "type": "make-file-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,8 +87,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "a2e7471867bc3b85",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -98,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studio XP/🎯 Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studio XP/🎯 Master.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Studio XP/🎯 Master.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,14 +170,6 @@
             "type": "leaf",
             "state": {
               "type": "timeline",
-              "state": {}
-            }
-          },
-          {
-            "id": "6516e3b188873386",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
               "state": {}
             }
           },
@@ -214,10 +221,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6cc38b0046c46d03",
+  "active": "4745a879b0f21933",
   "lastOpenFiles": [
-    "Studio XP/Game Editor V2.md",
+    "Spaces/Home",
     "Studio XP/🎯 Master.md",
+    "Spaces",
+    "Studio XP/Game Editor V2.md",
     "Timestamped/Daily notes/Nov 12, 2023.md",
     "Timestamped/Daily notes/Nov 14, 2023.md",
     "Timestamped/Daily notes/Nov 13, 2023.md",
@@ -258,10 +267,8 @@
     "Studio XP/Subscriber Space/Untitled note.md",
     "Studio XP/Subscriber Space/Subscriber Space.md",
     "Templates/Daily notes template.md",
-    "Studio XP/Subscriber Space/New note.md",
     "Studio XP/Subscriber Space",
     "Unsorted",
-    "Templates",
     "Untitled.canvas"
   ]
 }
