@@ -11,11 +11,9 @@
             "id": "a567704f2812d941",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Timestamped/Daily notes/Nov 14, 2023.md",
-                "mode": "source",
-                "source": false
+                "path": "Studio XP/Subscriber Space"
               }
             }
           }
@@ -94,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timestamped/Daily notes/Nov 14, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timestamped/Daily notes/Nov 14, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Timestamped/Daily notes/Nov 14, 2023.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,21 +199,21 @@
   "active": "a567704f2812d941",
   "lastOpenFiles": [
     "Studio XP/Game Editor.md",
+    "Studio XP/Master.md",
+    "Studio XP/Subscriber Space/Add a return button in participant edition page.md",
+    "Studio XP/Subscriber Space/Add more infos to main account and configure data fetching.md",
+    "Timestamped/Daily notes/Nov 14, 2023.md",
     "README.md",
     "Timestamped/Daily notes/Nov 12, 2023.md",
     "Spaces/Home/Home.md",
-    "Studio XP/Subscriber Space/Add a return button in participant edition page.md",
     "Studio XP/Subscriber Space/Make the + and - pictogram disappear (no more accordion).md",
     "Studio XP/Subscriber Space/Dashboard panel open by default if there's only one.md",
-    "Studio XP/Subscriber Space/Add more infos to main account and configure data fetching.md",
     "Studio XP/Subscriber Space/Subscriber Space.md",
     "Studio XP/Untitled.md",
     "Studio XP/Studio XP.md",
-    "Studio XP/Master.md",
     "Templates/Templates.md",
     "Spaces/Home",
     "Spaces",
-    "Timestamped/Daily notes/Nov 14, 2023.md",
     "Timestamped/Daily notes/Nov 13, 2023.md",
     "Timestamped/Daily notes/Nov 18, 2023.md",
     "Timestamped/Weekly notes/2023-W45.md",
