@@ -1,8 +1,8 @@
 {
   "accounts": [
     {
-      "alias": "Default",
-      "host": "https://mycompany.atlassian.net",
+      "alias": "Studio XP",
+      "host": "https://studioxp.atlassian.net",
       "authenticationType": "OPEN",
       "password": "",
       "priority": 1,

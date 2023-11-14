@@ -13,3 +13,7 @@
 ### core team
 - [ ] Démo game editor
 
+```jira-search
+type: TABLE
+query: project="ge"
+```
