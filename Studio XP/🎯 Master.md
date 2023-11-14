@@ -11,25 +11,15 @@
 - [ ] Pousser un peu b2b avant décembre
 
 ### Core team
-- [ ] Démo game editor
-
-### Backlog
-```jira-search
-type: TABLE
-query: project="GE" AND status = "backlog" order by priority
-```
-
-
-
-
-
-
-
-
-
+- [x] Démo game editor ✅ 2023-11-14
 
 ### In Progress
 ```jira-search
 type: TABLE
 query: project="GE" AND status = "en cours" order by priority
+```
+### Backlog
+```jira-search
+type: TABLE
+query: project="GE" AND status = "backlog" order by priority
 ```

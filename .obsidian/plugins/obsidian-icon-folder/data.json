@@ -6,8 +6,6 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasTimeline",
-      "FasCalendarWeek",
       "FasListCheck",
       "FabAdversal",
       "FasCalendarDay"
@@ -28,8 +26,5 @@
   "Daily Notes/Nov 9th, 2023.md": {
     "iconName": null,
     "inheritanceIcon": "FasCalendarDay"
-  },
-  "Timestamped/Daily notes": "FasCalendarDay",
-  "Timestamped/Weekly notes": "FasCalendarWeek",
-  "Timestamped": "FasTimeline"
+  }
 }
