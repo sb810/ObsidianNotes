@@ -13,7 +13,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/Nov 13, 2023.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -41,21 +40,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "251f340f64d271b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/Nov 13, 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +117,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/Nov 13, 2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -148,7 +133,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/Nov 13, 2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -159,9 +143,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Daily Notes/Nov 13, 2023.md"
-          }
+          "state": {}
         }
       },
       {
@@ -206,51 +188,53 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "251f340f64d271b5",
+  "active": "69d92e65396e0ebb",
   "lastOpenFiles": [
-    "Daily Notes/Nov 18, 2023.md",
-    "Daily Notes/Nov 9, 2023.md",
-    "Daily Notes/Nov 10, 2023.md",
-    "Daily Notes/Nov 11, 2023.md",
-    "Daily Notes/Nov 12th, 2023.md",
-    "Templates/Daily notes template.md",
-    "Daily Notes/Nov 13, 2023.md",
-    "Unsorted/Subscriber Space.md",
+    "Timestamped/Weekly notes/2023-W45.md",
+    "Timestamped/Daily notes/Nov 11, 2023.md",
+    "Templates/Weekly notes template.md",
+    "Templates/Templates.md",
+    "Studio XP/Subscriber Space/Subscriber Space.md",
+    "Studio XP/Studio XP.md",
+    "Studio XP/Master.md",
+    "Studio XP/Game Editor.md",
+    "Spaces/Home/Home.md",
+    "/Timestamped/Weekly notes/2023-W45.md",
+    "Timestamped/Daily notes/Nov 9, 2023.md",
+    "Timestamped/Daily notes/Nov 18, 2023.md",
+    "Timestamped/Daily notes/Nov 14, 2023.md",
+    "Timestamped/Daily notes/Nov 13, 2023.md",
+    "Timestamped/Daily notes/Nov 12, 2023.md",
+    "/Timestamped/Daily notes/Nov 11, 2023.md",
+    "Timestamped/Daily notes/Nov 10, 2023.md",
+    "/Templates/Weekly notes template.md",
+    "/Templates/Templates.md",
+    "/Studio XP/Subscriber Space/Subscriber Space.md",
+    "/Studio XP/Studio XP.md",
+    "/Studio XP/Master.md",
+    "/Studio XP/Game Editor.md",
+    "/Spaces/Home/Home.md",
+    "/Timestamped/Daily notes/Nov 9, 2023.md",
+    "/Timestamped/Daily notes/Nov 18, 2023.md",
+    "Timestamped/Weekly notes",
+    "Timestamped/Daily notes",
+    "Timestamped",
+    "Spaces/Home",
+    "Spaces",
+    "/Timestamped/Weekly notes",
+    "/Timestamped/Daily notes",
+    "/Timestamped",
+    "/Spaces/Home",
+    "/Spaces",
     "Pasted image 20231112233848.png",
-    "Unsorted/monads.md",
     "Assets/OIG (4).jpeg",
     "Assets/OIG.UtJk7w0Ir20.jpeg",
     "Assets/OIG.JEM5Dt8eaexBD_Q3b.jpeg",
     "Assets/OIG (5).jpeg",
     "Assets/OIG.QXW1WCqibKZl 1.jpeg",
     "Assets/OIG (6) 1.jpeg",
-    "Unsorted/![[OIG (6).jpeg.md",
     "Assets/OIG (6).jpeg",
     "Assets/OIG.QXW1WCqibKZl.jpeg",
-    "Assets/OIG (7).jpeg",
-    "/Templates/Daily notes template.md",
-    "/Daily Notes/Nov 12th, 2023.md",
-    "Templates/Project task.md",
-    "Studio XP/Subscriber Space/Make the + and - pictogram disappear (no more accordion).md",
-    "Studio XP/Subscriber Space/Dashboard panel open by default if there's only one.md",
-    "Studio XP/Subscriber Space/Add more infos to main account and configure data fetching.md",
-    "Studio XP/Subscriber Space/Add a return button in participant edition page.md",
-    "/Templates/Project task.md",
-    "/Studio XP/Subscriber Space/Make the + and - pictogram disappear (no more accordion).md",
-    "/Studio XP/Subscriber Space/Dashboard panel open by default if there's only one.md",
-    "/Studio XP/Subscriber Space/Add more infos to main account and configure data fetching.md",
-    "/Studio XP/Subscriber Space/Add a return button in participant edition page.md",
-    "/README.md",
-    "/Daily Notes/Nov 9th, 2023.md",
-    "/Daily Notes/Nov 11th, 2023.md",
-    "/Daily Notes/Nov 10th, 2023.md",
-    "Studio XP/Subscriber Space",
-    "/Studio XP/Subscriber Space",
-    "Unsorted",
-    "Assets",
-    "CustomJS/Scripts.js10181738817592",
-    "Untitled 1",
-    "CustomJS",
-    "Templates"
+    "Assets/OIG (7).jpeg"
   ]
 }
